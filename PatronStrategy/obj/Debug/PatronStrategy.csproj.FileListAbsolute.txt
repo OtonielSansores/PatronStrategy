@@ -1,0 +1,7 @@
+C:\Users\otoniel.sansores\source\repos\PatronStrategy\PatronStrategy\bin\Debug\PatronStrategy.exe.config
+C:\Users\otoniel.sansores\source\repos\PatronStrategy\PatronStrategy\bin\Debug\PatronStrategy.exe
+C:\Users\otoniel.sansores\source\repos\PatronStrategy\PatronStrategy\bin\Debug\PatronStrategy.pdb
+C:\Users\otoniel.sansores\source\repos\PatronStrategy\PatronStrategy\obj\Debug\PatronStrategy.csprojAssemblyReference.cache
+C:\Users\otoniel.sansores\source\repos\PatronStrategy\PatronStrategy\obj\Debug\PatronStrategy.csproj.CoreCompileInputs.cache
+C:\Users\otoniel.sansores\source\repos\PatronStrategy\PatronStrategy\obj\Debug\PatronStrategy.exe
+C:\Users\otoniel.sansores\source\repos\PatronStrategy\PatronStrategy\obj\Debug\PatronStrategy.pdb
